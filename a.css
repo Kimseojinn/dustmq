@@ -2,13 +2,13 @@
     text-align: center;
     margin: 0 auto;
     line-height: 225%;
-    width: 70%;
+    width: 90%;
  
 }
 
 .container {
     font-family: arial;
-    font-size: 20px;
+    font-size: 40px;
     margin: 25px;
     outline: dashed 1px black;
   }
